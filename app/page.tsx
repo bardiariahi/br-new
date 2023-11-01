@@ -10,9 +10,7 @@ export default function Home() {
           <code className="font-mono font-bold">app/page.tsx</code>
         </p>
         <div>
-          <ThemeToggle>
-
-          </ThemeToggle>
+          <ThemeToggle />
         </div>
         <h1 className='text-black dark:text-white font-bold text-2xl'>
           bardia test
